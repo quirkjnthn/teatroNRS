@@ -73,7 +73,7 @@ class SiteController extends Controller
 			}
 		}
 		// display the login form
-		$this->layout="login";
+		$this->layout="log-in";
 		$this->render('index',array('model'=>$model));
 
 		/*$this->layout="vacio";
