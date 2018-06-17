@@ -47,7 +47,10 @@ class MisreservasController extends Controller
 
 	public function actionAdmin()
 	{		
-		$modelReser = Reserva::model()->findAll("id_usuario=".Yii::app()->user->getState("id"));
+		if(Yii::app()->user->getState("id_rol")==1)
+			$modelReser = Reserva::model()->findAll();
+		else
+			$modelReser = Reserva::model()->findAll("id_usuario=".Yii::app()->user->getState("id"));
 		$this->render('admin',array(
 			'modelReser'=>$modelReser,
 		));
@@ -55,6 +58,7 @@ class MisreservasController extends Controller
 
 	public function actionDetalle($id)
 	{		
+
 		$modelReser = Reserva::model()->findByPk($id);
 		$this->render('detalle',array(
 			'modelReser'=>$modelReser,

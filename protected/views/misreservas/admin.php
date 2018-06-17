@@ -1,7 +1,18 @@
 
 <div class="row">
 	<div class="col-md-6 col-sm-12 col-xs-12">
-		<h1>Mis Reservas</h1>
+  <?php 
+    if(Yii::app()->user->getState("id_rol")==1){
+  ?>
+		<h1>Todas las Reservas</h1>
+  <?php 
+  }
+  else{
+    ?>
+    <h1>Mis Reservas</h1>
+  <?php
+  }
+  ?>
 	</div>
 
 <div class="row">

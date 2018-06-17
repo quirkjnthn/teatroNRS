@@ -6,5 +6,5 @@
           </ul>
         </li>
        <li><a href="<?php echo Yii::app()->createUrl("funciones/admin"); ?>"><i class="fa fa-calendar"></i>Funciones</a></li>
-       <li><a href="<?php echo Yii::app()->createUrl("reservas/admin"); ?>"><i class="fa fa-book"></i>Reservas</a></li>
+       <li><a href="<?php echo Yii::app()->createUrl("misreservas/admin"); ?>"><i class="fa fa-book"></i>Reservas</a></li>
     </ul> 

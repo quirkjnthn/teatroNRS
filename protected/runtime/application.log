@@ -5112,3 +5112,21 @@ REQUEST_URI=/teatroNRS/misreservas/detalle/12
 in C:\xampp\htdocs\teatroNRS\protected\views\misreservas\detalle.php (34)
 in C:\xampp\htdocs\teatroNRS\protected\controllers\MisreservasController.php (61)
 in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 10:44:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "reservas/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reservas/admin')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/reservas/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/funciones/admin
+---
+2018/06/17 10:44:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "reservas/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reservas/admin')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/reservas/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/funciones/admin
+---
