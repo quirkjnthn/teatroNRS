@@ -1,29 +1,27 @@
 <?php
 
 /**
- * This is the model class for table "usuario".
+ * This is the model class for table "reserva".
  *
- * The followings are the available columns in table 'usuario':
+ * The followings are the available columns in table 'reserva':
  * @property integer $id
- * @property string $username
- * @property string $password
- * @property string $nombres
- * @property string $apellidos
+ * @property integer $id_usuario
  * @property integer $status
- * @property integer $id_rol
+ * @property integer $id_funcion
  *
  * The followings are the available model relations:
- * @property Reserva[] $reservas
- * @property Rol $idRol
+ * @property ButacaReserva[] $butacaReservas
+ * @property Funcion $idFuncion
+ * @property Usuario $idUsuario
  */
-class Usuario extends CActiveRecord
+class Reserva extends CActiveRecord
 {
 	/**
 	 * @return string the associated database table name
 	 */
 	public function tableName()
 	{
-		return 'usuario';
+		return 'reserva';
 	}
 
 	/**
@@ -34,12 +32,11 @@ class Usuario extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('username, password, nombres, apellidos, status, id_rol', 'required'),
-			array('status, id_rol', 'numerical', 'integerOnly'=>true),
-			array('username, password, nombres, apellidos', 'length', 'max'=>100),
+			array('id_usuario, status, id_funcion', 'required'),
+			array('id_usuario, status, id_funcion', 'numerical', 'integerOnly'=>true),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
-			array('id, username, password, nombres, apellidos, status, id_rol', 'safe', 'on'=>'search'),
+			array('id, id_usuario, status, id_funcion', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -51,8 +48,9 @@ class Usuario extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
-			'reservas' => array(self::HAS_MANY, 'Reserva', 'id_usuario'),
-			'idRol' => array(self::BELONGS_TO, 'Rol', 'id_rol'),
+			'butacaReservas' => array(self::HAS_MANY, 'ButacaReserva', 'id_reserva'),
+			'idFuncion' => array(self::BELONGS_TO, 'Funcion', 'id_funcion'),
+			'idUsuario' => array(self::BELONGS_TO, 'Usuario', 'id_usuario'),
 		);
 	}
 
@@ -63,12 +61,9 @@ class Usuario extends CActiveRecord
 	{
 		return array(
 			'id' => 'ID',
-			'username' => 'Email',
-			'password' => 'Password',
-			'nombres' => 'Nombres',
-			'apellidos' => 'Apellidos',
+			'id_usuario' => 'Id Usuario',
 			'status' => 'Status',
-			'id_rol' => 'Id Rol',
+			'id_funcion' => 'Id Funcion',
 		);
 	}
 
@@ -91,12 +86,9 @@ class Usuario extends CActiveRecord
 		$criteria=new CDbCriteria;
 
 		$criteria->compare('id',$this->id);
-		$criteria->compare('username',$this->username,true);
-		$criteria->compare('password',$this->password,true);
-		$criteria->compare('nombres',$this->nombres,true);
-		$criteria->compare('apellidos',$this->apellidos,true);
+		$criteria->compare('id_usuario',$this->id_usuario);
 		$criteria->compare('status',$this->status);
-		$criteria->compare('id_rol',$this->id_rol);
+		$criteria->compare('id_funcion',$this->id_funcion);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
@@ -107,7 +99,7 @@ class Usuario extends CActiveRecord
 	 * Returns the static model of the specified AR class.
 	 * Please note that you should have this exact method in all your CActiveRecord descendants!
 	 * @param string $className active record class name.
-	 * @return Usuario the static model class
+	 * @return Reserva the static model class
 	 */
 	public static function model($className=__CLASS__)
 	{

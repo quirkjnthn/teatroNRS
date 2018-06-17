@@ -51,12 +51,12 @@ class SiteController extends Controller
 					if(Yii::app()->user->id_rol==1){
 						/*echo "Admin del Sistem";
 						exit();*/
-						$this->redirect(array("administrador/admin"));
+						$this->redirect(array("administradores/admin"));
 					}
 
 					////////RESELLER
 					if(Yii::app()->user->id_rol==2){
-
+						$this->redirect(array("reserva/admin"));
 					}
 
 					////////ADMINISTRADOR DE APLICACION CLIENTE PRINCIPAL

@@ -1,12 +1,12 @@
 <?php
 
-class ResellerController extends Controller
+class ClientesController extends Controller
 {
 	/**
 	 * @var string the default layout for the views. Defaults to '//layouts/column2', meaning
 	 * using two-column layout. See 'protected/views/layouts/column2.php'.
 	 */
-	public $layout='//layouts/column2';
+	public $layout='//layouts/main';
 
 	/**
 	 * @return array action filters
@@ -36,7 +36,7 @@ class ResellerController extends Controller
 				'users'=>array('@'),
 			),
 			array('allow', // allow admin user to perform 'admin' and 'delete' actions
-				'actions'=>array('admin','delete','borrado'),
+				'actions'=>array('admin','delete','borrado','horarioPersonal'),
 				'users'=>array('@'),
 			),
 			array('deny',  // deny all users
@@ -70,13 +70,12 @@ class ResellerController extends Controller
 		if(isset($_POST['Usuario']))
 		{
 			$model->attributes=$_POST['Usuario'];
-			$model->status=1;
-			$model->imagen="imagen";
 			$model->id_rol=2;
-			$model->tipo_usuario=1;
+			$model->status=1;
 			$model->password = md5($model->password);
-			if($model->save())
+			if($model->save()){	
 				$this->redirect(array('admin'));
+			}
 				//$this->redirect(array('view','id'=>$model->id));
 		}
 
@@ -151,14 +150,11 @@ class ResellerController extends Controller
 	/**
 	 * Manages all models.
 	 */
+
 	public function actionAdmin()
 	{
-		//$model=new Usuario('search');
-		$model= Usuario::model()->findAll("id_rol=2 and status!=2");
-		/*$model->unsetAttributes();  // clear any default values
-		if(isset($_GET['Usuario']))
-			$model->attributes=$_GET['Usuario'];
-		*/
+		$model= Usuario::model()->findAll("id_rol=2 and id!=1 and status!=2");
+		
 		$this->render('admin',array(
 			'model'=>$model,
 		));

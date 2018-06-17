@@ -1,12 +1,12 @@
 <?php
 
-class SucursalesController extends Controller
+class FuncionesController extends Controller
 {
 	/**
 	 * @var string the default layout for the views. Defaults to '//layouts/column2', meaning
 	 * using two-column layout. See 'protected/views/layouts/column2.php'.
 	 */
-	public $layout='//layouts/mainApp';
+	public $layout='//layouts/main';
 
 	/**
 	 * @return array action filters
@@ -36,7 +36,7 @@ class SucursalesController extends Controller
 				'users'=>array('@'),
 			),
 			array('allow', // allow admin user to perform 'admin' and 'delete' actions
-				'actions'=>array('admin','delete','borrado'),
+				'actions'=>array('admin','delete','borrado','horarioPersonal'),
 				'users'=>array('@'),
 			),
 			array('deny',  // deny all users
@@ -62,50 +62,39 @@ class SucursalesController extends Controller
 	 */
 	public function actionCreate()
 	{
-		$model=new Sucursal;
+		$model=new Funcion;
 
 		// Uncomment the following line if AJAX validation is needed
 		// $this->performAjaxValidation($model);
 
-		if(isset($_POST['Sucursal']))
+		if(isset($_POST['Funcion']))
 		{
-			$model->attributes=$_POST['Sucursal'];
-			$model->status=1;
-			$model->id_app=Yii::app()->user->getState("id_app");
-			$model->principal=0;
+			
+			$modelV = Funcion::model()->find("fecha='".$_POST['Funcion']["fecha"]."'");
+			
+				if(count($modelV)==0){
+					$model->attributes=$_POST['Funcion'];
+					$model->status=1;
+					if($model->save()){	
 
-			if($model->save()){
+						$modelBut = Butaca::model()->findAll();
 
-				$modelUsuarios = Usuario::model()->findAll("id_rol=5 and id_app=".Yii::app()->user->getState("id_app")); 
+						foreach ($modelBut as $key => $value) {
+							$modelBr = new ButacaReserva;
+							$modelBr->id_funcion = $model->primaryKey;
+							$modelBr->id_butaca = $value->id;
+							$modelBr->status = 0;
+							$modelBr->save();
+						}
 
-				foreach ($modelUsuarios as $key => $valueOdono) {
-					
-				///////////////////////////////CREA HORARIOS PERSONALIZADOS
-				$modelDias = Dia::model()->findAll();
-
-				foreach ($modelDias as $keyD => $valueD) {
-					$modelHora = Horas::model()->findAll();
-
-					foreach ($modelHora as $keyH => $valueH) {
-						//$modelSucursal = Sucursal::model()->findAll("id_app=".Yii::app()->user->getState("id_app"));
-						//foreach ($modelSucursal as $keyS => $valueS) {
-							$modelHorarioP = new HorarioPersonal;
-							$modelHorarioP->id_odontologo = $valueOdono->id;
-							$modelHorarioP->id_hora = $valueH->id;
-							$modelHorarioP->id_dia = $valueD->id;
-							$modelHorarioP->id_sucursal = $model->primaryKey;
-							$modelHorarioP->status=1;
-							$modelHorarioP->save(); 
-
-						//}
+						$this->redirect(array('admin'));
 					}
 				}
-
+				else{
+					$this->render('create',array(
+						'model'=>$model,
+					));
 				}
-
-				$this->redirect(array('admin'));
-			}
-				//$this->redirect(array('view','id'=>$model->id));
 		}
 
 		$this->render('create',array(
@@ -125,9 +114,9 @@ class SucursalesController extends Controller
 		// Uncomment the following line if AJAX validation is needed
 		// $this->performAjaxValidation($model);
 
-		if(isset($_POST['Sucursal']))
+		if(isset($_POST['Usuario']))
 		{
-			$model->attributes=$_POST['Sucursal'];
+			$model->attributes=$_POST['Usuario'];
 			if($model->save())
 				$this->redirect(array('admin'));
 				//$this->redirect(array('view','id'=>$model->id));
@@ -160,11 +149,6 @@ class SucursalesController extends Controller
 		$model->status=2;
 		$model->save();
 
-		$modelHorario = HorarioPersonal::model()->findAll("id_sucursal=".$model->id.""); 
-
-		foreach ($modelHorario as $key => $valueHora)
-			$valueHora->delete();		
-
 		// if AJAX request (triggered by deletion via admin grid view), we should not redirect the browser
 		if(!isset($_GET['ajax']))
 			$this->redirect(isset($_POST['returnUrl']) ? $_POST['returnUrl'] : array('admin'));
@@ -184,14 +168,11 @@ class SucursalesController extends Controller
 	/**
 	 * Manages all models.
 	 */
+
 	public function actionAdmin()
 	{
-		//$model=new Usuario('search');
-		$model= Sucursal::model()->findAll("status!=2 and id_app=".Yii::app()->user->getState("id_app"));
-		/*$model->unsetAttributes();  // clear any default values
-		if(isset($_GET['Usuario']))
-			$model->attributes=$_GET['Usuario'];
-		*/
+		$model= Funcion::model()->findAll("");
+		
 		$this->render('admin',array(
 			'model'=>$model,
 		));
@@ -220,7 +201,7 @@ class SucursalesController extends Controller
 	 */
 	public function loadModel($id)
 	{
-		$model=Sucursal::model()->findByPk($id);
+		$model=Funcion::model()->findByPk($id);
 		if($model===null)
 			throw new CHttpException(404,'The requested page does not exist.');
 		return $model;

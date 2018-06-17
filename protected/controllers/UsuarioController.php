@@ -1,12 +1,12 @@
 <?php
 
-class PacienteController extends Controller
+class UsuarioController extends Controller
 {
 	/**
 	 * @var string the default layout for the views. Defaults to '//layouts/column2', meaning
 	 * using two-column layout. See 'protected/views/layouts/column2.php'.
 	 */
-	public $layout='//layouts/mainApp';
+	public $layout='//layouts/column2';
 
 	/**
 	 * @return array action filters
@@ -28,15 +28,15 @@ class PacienteController extends Controller
 	{
 		return array(
 			array('allow',  // allow all users to perform 'index' and 'view' actions
-				'actions'=>array('index','view','status'),
-				'users'=>array('@'),
+				'actions'=>array('index','view'),
+				'users'=>array('*'),
 			),
 			array('allow', // allow authenticated user to perform 'create' and 'update' actions
 				'actions'=>array('create','update'),
 				'users'=>array('@'),
 			),
 			array('allow', // allow admin user to perform 'admin' and 'delete' actions
-				'actions'=>array('admin','delete','borrado'),
+				'actions'=>array('admin','delete'),
 				'users'=>array('@'),
 			),
 			array('deny',  // deny all users
@@ -70,16 +70,8 @@ class PacienteController extends Controller
 		if(isset($_POST['Usuario']))
 		{
 			$model->attributes=$_POST['Usuario'];
-			$model->status=1;
-			$model->imagen="imagen";
-			$model->id_rol=6;
-			$model->tipo_usuario=2;
-			$model->id_app = Yii::app()->user->getState("id_app");
-			$model->password = md5($model->password);
-			$model->id_padre = Yii::app()->user->id;
 			if($model->save())
-				$this->redirect(array('admin'));
-				//$this->redirect(array('view','id'=>$model->id));
+				$this->redirect(array('view','id'=>$model->id));
 		}
 
 		$this->render('create',array(
@@ -103,8 +95,7 @@ class PacienteController extends Controller
 		{
 			$model->attributes=$_POST['Usuario'];
 			if($model->save())
-				$this->redirect(array('admin'));
-				//$this->redirect(array('view','id'=>$model->id));
+				$this->redirect(array('view','id'=>$model->id));
 		}
 
 		$this->render('update',array(
@@ -119,20 +110,7 @@ class PacienteController extends Controller
 	 */
 	public function actionDelete($id)
 	{
-		echo "AQUI VA";
-		exit();
 		$this->loadModel($id)->delete();
-
-		// if AJAX request (triggered by deletion via admin grid view), we should not redirect the browser
-		if(!isset($_GET['ajax']))
-			$this->redirect(isset($_POST['returnUrl']) ? $_POST['returnUrl'] : array('admin'));
-	}
-
-	public function actionBorrado($id)
-	{
-		$model = $this->loadModel($id);
-		$model->status=2;
-		$model->save();
 
 		// if AJAX request (triggered by deletion via admin grid view), we should not redirect the browser
 		if(!isset($_GET['ajax']))
@@ -155,30 +133,15 @@ class PacienteController extends Controller
 	 */
 	public function actionAdmin()
 	{
-		//$model=new Usuario('search');
-		$model= Usuario::model()->findAll("id_rol=6 and status!=2 and id_app=".Yii::app()->user->id);
-		/*$model->unsetAttributes();  // clear any default values
+		$model=new Usuario('search');
+		$model->unsetAttributes();  // clear any default values
 		if(isset($_GET['Usuario']))
 			$model->attributes=$_GET['Usuario'];
-		*/
+
 		$this->render('admin',array(
 			'model'=>$model,
 		));
 	}
-
-	public function actionStatus($id){
-        $page = $this->loadModel($id);
-        if($page->status == 1)
-            $page->status = 0;
-        else if($page->status == 0)
-            $page->status = 1;
-        else
-            throw new CHttpException(404,'The requested page does not exist.');
-
-        $page->save();
-
-        $this->redirect(array('admin'));
-    }
 
 	/**
 	 * Returns the data model based on the primary key given in the GET variable.

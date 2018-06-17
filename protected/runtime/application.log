@@ -3580,3 +3580,1535 @@ Stack trace:
 REQUEST_URI=/teatroNRS/
 HTTP_REFERER=http://127.0.0.1/teatroNRS/
 ---
+2018/06/17 06:44:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:45:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:45:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:46:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:46:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:46:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:46:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:47:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:48:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:48:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:51:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administrador/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administrador/a...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administrador/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/
+---
+2018/06/17 06:52:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administradorres/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradorre...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administradorres/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 06:52:41 [error] [exception.CException] exception 'CException' with message 'AdministradoresController cannot find the requested view "admin".' in C:\xampp\htdocs\framework\web\CController.php:878
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#1 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(143): CController->render('admin', Array)
+#2 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#3 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#13 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/teatroNRS/administradores/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 06:53:33 [error] [exception.CException] exception 'CException' with message 'Property "Usuario.tipo_usuario" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('tipo_usuario')
+#1 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2728): CActiveRecord->__get('tipo_usuario')
+#2 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2451): CHtml::resolveValue(Object(Usuario), 'tipo_usuario')
+#3 C:\xampp\htdocs\framework\web\helpers\CHtml.php(1533): CHtml::activeInputField('text', Object(Usuario), 'tipo_usuario', Array)
+#4 C:\xampp\htdocs\framework\web\widgets\CActiveForm.php(792): CHtml::activeTextField(Object(Usuario), 'tipo_usuario', Array)
+#5 C:\xampp\htdocs\teatroNRS\protected\views\administradores\_search.php(26): CActiveForm->textField(Object(Usuario), 'tipo_usuario')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#9 C:\xampp\htdocs\teatroNRS\protected\views\administradores\admin.php(40): CController->renderPartial('_search', Array)
+#10 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#12 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#13 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#14 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(143): CController->render('admin', Array)
+#15 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#16 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#25 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#26 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/teatroNRS/administradores/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 06:55:40 [error] [exception.CException] exception 'CException' with message 'Property "Usuario.tipo_usuario" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('tipo_usuario')
+#1 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2728): CActiveRecord->__get('tipo_usuario')
+#2 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2451): CHtml::resolveValue(Object(Usuario), 'tipo_usuario')
+#3 C:\xampp\htdocs\framework\web\helpers\CHtml.php(1533): CHtml::activeInputField('text', Object(Usuario), 'tipo_usuario', Array)
+#4 C:\xampp\htdocs\framework\web\widgets\CActiveForm.php(792): CHtml::activeTextField(Object(Usuario), 'tipo_usuario', Array)
+#5 C:\xampp\htdocs\teatroNRS\protected\views\administradores\_search.php(26): CActiveForm->textField(Object(Usuario), 'tipo_usuario')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#9 C:\xampp\htdocs\teatroNRS\protected\views\administradores\admin.php(40): CController->renderPartial('_search', Array)
+#10 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#12 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#13 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#14 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(143): CController->render('admin', Array)
+#15 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#16 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#25 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#26 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/teatroNRS/administradores/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 06:57:12 [error] [exception.CException] exception 'CException' with message 'Property "Usuario.tipo_usuario" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('tipo_usuario')
+#1 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2728): CActiveRecord->__get('tipo_usuario')
+#2 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2451): CHtml::resolveValue(Object(Usuario), 'tipo_usuario')
+#3 C:\xampp\htdocs\framework\web\helpers\CHtml.php(1533): CHtml::activeInputField('text', Object(Usuario), 'tipo_usuario', Array)
+#4 C:\xampp\htdocs\framework\web\widgets\CActiveForm.php(792): CHtml::activeTextField(Object(Usuario), 'tipo_usuario', Array)
+#5 C:\xampp\htdocs\teatroNRS\protected\views\administradores\_search.php(26): CActiveForm->textField(Object(Usuario), 'tipo_usuario')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#9 C:\xampp\htdocs\teatroNRS\protected\views\administradores\admin.php(40): CController->renderPartial('_search', Array)
+#10 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#12 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#13 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#14 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(143): CController->render('admin', Array)
+#15 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#16 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#25 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#26 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/teatroNRS/administradores/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 06:57:15 [error] [exception.CException] exception 'CException' with message 'Property "Usuario.tipo_usuario" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('tipo_usuario')
+#1 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2728): CActiveRecord->__get('tipo_usuario')
+#2 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2451): CHtml::resolveValue(Object(Usuario), 'tipo_usuario')
+#3 C:\xampp\htdocs\framework\web\helpers\CHtml.php(1533): CHtml::activeInputField('text', Object(Usuario), 'tipo_usuario', Array)
+#4 C:\xampp\htdocs\framework\web\widgets\CActiveForm.php(792): CHtml::activeTextField(Object(Usuario), 'tipo_usuario', Array)
+#5 C:\xampp\htdocs\teatroNRS\protected\views\administradores\_search.php(26): CActiveForm->textField(Object(Usuario), 'tipo_usuario')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#9 C:\xampp\htdocs\teatroNRS\protected\views\administradores\admin.php(40): CController->renderPartial('_search', Array)
+#10 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#12 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#13 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#14 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(143): CController->render('admin', Array)
+#15 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#16 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#25 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#26 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/teatroNRS/administradores/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 06:57:28 [error] [exception.CException] exception 'CException' with message 'Property "Usuario.tipo_usuario" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('tipo_usuario')
+#1 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2728): CActiveRecord->__get('tipo_usuario')
+#2 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2451): CHtml::resolveValue(Object(Usuario), 'tipo_usuario')
+#3 C:\xampp\htdocs\framework\web\helpers\CHtml.php(1533): CHtml::activeInputField('text', Object(Usuario), 'tipo_usuario', Array)
+#4 C:\xampp\htdocs\framework\zii\widgets\grid\CDataColumn.php(104): CHtml::activeTextField(Object(Usuario), 'tipo_usuario', Array)
+#5 C:\xampp\htdocs\framework\zii\widgets\grid\CGridColumn.php(253): CDataColumn->getFilterCellContent()
+#6 C:\xampp\htdocs\framework\zii\widgets\grid\CGridColumn.php(119): CGridColumn->renderFilterCellContent()
+#7 C:\xampp\htdocs\framework\zii\widgets\grid\CGridView.php(538): CGridColumn->renderFilterCell()
+#8 C:\xampp\htdocs\framework\zii\widgets\grid\CGridView.php(516): CGridView->renderFilter()
+#9 C:\xampp\htdocs\framework\zii\widgets\grid\CGridView.php(486): CGridView->renderTableHeader()
+#10 C:\xampp\htdocs\framework\zii\widgets\CBaseListView.php(181): CGridView->renderItems()
+#11 [internal function]: CBaseListView->renderSection(Array)
+#12 C:\xampp\htdocs\framework\zii\widgets\CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{item...')
+#13 C:\xampp\htdocs\framework\zii\widgets\CBaseListView.php(149): CBaseListView->renderContent()
+#14 C:\xampp\htdocs\framework\web\CBaseController.php(181): CBaseListView->run()
+#15 C:\xampp\htdocs\teatroNRS\protected\views\administradores\admin.php(57): CBaseController->widget('zii.widgets.gri...', Array)
+#16 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#18 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#19 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#20 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(143): CController->render('admin', Array)
+#21 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#22 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#24 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#26 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#27 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#28 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#29 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#30 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#31 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#32 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#33 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#34 {main}
+REQUEST_URI=/teatroNRS/administradores/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 06:58:12 [error] [exception.CException] exception 'CException' with message 'Property "Usuario.tipo_usuario" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('tipo_usuario')
+#1 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2728): CActiveRecord->__get('tipo_usuario')
+#2 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2451): CHtml::resolveValue(Object(Usuario), 'tipo_usuario')
+#3 C:\xampp\htdocs\framework\web\helpers\CHtml.php(1533): CHtml::activeInputField('text', Object(Usuario), 'tipo_usuario', Array)
+#4 C:\xampp\htdocs\framework\zii\widgets\grid\CDataColumn.php(104): CHtml::activeTextField(Object(Usuario), 'tipo_usuario', Array)
+#5 C:\xampp\htdocs\framework\zii\widgets\grid\CGridColumn.php(253): CDataColumn->getFilterCellContent()
+#6 C:\xampp\htdocs\framework\zii\widgets\grid\CGridColumn.php(119): CGridColumn->renderFilterCellContent()
+#7 C:\xampp\htdocs\framework\zii\widgets\grid\CGridView.php(538): CGridColumn->renderFilterCell()
+#8 C:\xampp\htdocs\framework\zii\widgets\grid\CGridView.php(516): CGridView->renderFilter()
+#9 C:\xampp\htdocs\framework\zii\widgets\grid\CGridView.php(486): CGridView->renderTableHeader()
+#10 C:\xampp\htdocs\framework\zii\widgets\CBaseListView.php(181): CGridView->renderItems()
+#11 [internal function]: CBaseListView->renderSection(Array)
+#12 C:\xampp\htdocs\framework\zii\widgets\CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{item...')
+#13 C:\xampp\htdocs\framework\zii\widgets\CBaseListView.php(149): CBaseListView->renderContent()
+#14 C:\xampp\htdocs\framework\web\CBaseController.php(181): CBaseListView->run()
+#15 C:\xampp\htdocs\teatroNRS\protected\views\administradores\admin.php(57): CBaseController->widget('zii.widgets.gri...', Array)
+#16 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#18 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#19 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#20 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(143): CController->render('admin', Array)
+#21 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#22 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#23 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#24 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#26 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#27 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#28 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#29 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#30 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#31 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#32 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#33 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#34 {main}
+REQUEST_URI=/teatroNRS/administradores/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 06:59:05 [error] [php] Trying to get property of non-object (C:\xampp\htdocs\teatroNRS\protected\views\administradores\admin.php:37)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(869): AdministradoresController->renderFile()
+#1 C:\xampp\htdocs\framework\web\CController.php(782): AdministradoresController->renderPartial()
+#2 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(143): AdministradoresController->render()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): AdministradoresController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): AdministradoresController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): AdministradoresController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): AdministradoresController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/administradores/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\administradores\admin.php (37)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php (143)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 06:59:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administradores/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administradores/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 06:59:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administradores/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administradores/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 07:00:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "administradores/index".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/administradores/index
+---
+2018/06/17 07:00:30 [error] [exception.CException] exception 'CException' with message 'Property "Usuario.tipo_usuario" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('tipo_usuario')
+#1 C:\xampp\htdocs\teatroNRS\protected\views\administradores\_view.php(21): CActiveRecord->__get('tipo_usuario')
+#2 C:\xampp\htdocs\framework\web\CBaseController.php(130): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, false)
+#4 C:\xampp\htdocs\framework\zii\widgets\CListView.php(291): CBaseController->renderFile('C:\\xampp\\htdocs...', Array)
+#5 C:\xampp\htdocs\framework\zii\widgets\CBaseListView.php(181): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 C:\xampp\htdocs\framework\zii\widgets\CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{sort...')
+#8 C:\xampp\htdocs\framework\zii\widgets\CBaseListView.php(149): CBaseListView->renderContent()
+#9 C:\xampp\htdocs\framework\web\CBaseController.php(181): CBaseListView->run()
+#10 C:\xampp\htdocs\teatroNRS\protected\views\administradores\index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#13 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#14 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#15 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(170): CController->render('index', Array)
+#16 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionIndex()
+#17 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#19 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#21 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#23 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#24 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('index')
+#26 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#27 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#28 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/teatroNRS/administradores/index
+---
+2018/06/17 07:01:09 [error] [php] include(ConfiguracionAgenda.php): failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php(296): spl_autoload_call()
+#1 C:\xampp\htdocs\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\framework\web\CBaseController.php(95): AdministradoresController->renderInternal()
+#3 C:\xampp\htdocs\framework\web\CController.php(784): AdministradoresController->renderFile()
+#4 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(170): AdministradoresController->render()
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionIndex()
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): AdministradoresController->runAction()
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): AdministradoresController->filterAccessControl()
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): AdministradoresController->runActionWithFilters()
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): AdministradoresController->run()
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/administradores/index
+in C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php (296)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php (170)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:01:44 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_app' in 'where clause'. The SQL statement executed was: SELECT * FROM `usuario` `t` WHERE id_rol=5 and status!=2 and id_app=2.
+in C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php (223)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:01:44 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_app' in 'where clause'. The SQL statement executed was: SELECT * FROM `usuario` `t` WHERE id_rol=5 and status!=2 and id_app=2' in C:\xampp\htdocs\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1356): CDbCommand->queryAll()
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1475): CActiveRecord->query(Object(CDbCriteria), true)
+#3 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(223): CActiveRecord->findAll('id_rol=5 and st...')
+#4 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#5 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#6 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#8 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#12 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#15 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#16 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/teatroNRS/administradores/admin
+---
+2018/06/17 07:02:17 [error] [php] include(ConfiguracionAgenda.php): failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php(296): spl_autoload_call()
+#1 C:\xampp\htdocs\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\framework\web\CBaseController.php(95): AdministradoresController->renderInternal()
+#3 C:\xampp\htdocs\framework\web\CController.php(784): AdministradoresController->renderFile()
+#4 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(227): AdministradoresController->render()
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): AdministradoresController->runAction()
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): AdministradoresController->filterAccessControl()
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): AdministradoresController->runActionWithFilters()
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): AdministradoresController->run()
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/administradores/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php (296)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php (227)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:05:04 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\xampp\htdocs\framework\web\auth\CAccessControlFilter.php:182
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 C:\xampp\htdocs\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('usuario/admin')
+#9 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/teatroNRS/usuario/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/usuario
+---
+2018/06/17 07:06:03 [error] [php] include(ConfiguracionAgenda.php): failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php(296): spl_autoload_call()
+#1 C:\xampp\htdocs\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\framework\web\CBaseController.php(95): AdministradoresController->renderInternal()
+#3 C:\xampp\htdocs\framework\web\CController.php(784): AdministradoresController->renderFile()
+#4 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(227): AdministradoresController->render()
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): AdministradoresController->runAction()
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): AdministradoresController->filterAccessControl()
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): AdministradoresController->runActionWithFilters()
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): AdministradoresController->run()
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/administradores/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php (296)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php (227)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:06:33 [error] [php] include(ConfiguracionAgenda.php): failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php(296): spl_autoload_call()
+#1 C:\xampp\htdocs\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\framework\web\CBaseController.php(95): AdministradoresController->renderInternal()
+#3 C:\xampp\htdocs\framework\web\CController.php(784): AdministradoresController->renderFile()
+#4 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(185): AdministradoresController->render()
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): AdministradoresController->runAction()
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): AdministradoresController->filterAccessControl()
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): AdministradoresController->runActionWithFilters()
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): AdministradoresController->run()
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/administradores/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php (296)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php (185)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:07:41 [error] [php] include(ConfiguracionAgenda.php): failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php(296): spl_autoload_call()
+#1 C:\xampp\htdocs\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\framework\web\CBaseController.php(95): AdministradoresController->renderInternal()
+#3 C:\xampp\htdocs\framework\web\CController.php(784): AdministradoresController->renderFile()
+#4 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(168): AdministradoresController->render()
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): AdministradoresController->runAction()
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): AdministradoresController->filterAccessControl()
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): AdministradoresController->runActionWithFilters()
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): AdministradoresController->run()
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/administradores/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php (296)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php (168)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:08:24 [error] [php] include(ConfiguracionAgenda.php): failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php(296): spl_autoload_call()
+#1 C:\xampp\htdocs\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\framework\web\CBaseController.php(95): AdministradoresController->renderInternal()
+#3 C:\xampp\htdocs\framework\web\CController.php(784): AdministradoresController->renderFile()
+#4 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(168): AdministradoresController->render()
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): AdministradoresController->runAction()
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): AdministradoresController->filterAccessControl()
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): AdministradoresController->runActionWithFilters()
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): AdministradoresController->run()
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/administradores/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php (296)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php (168)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:09:41 [error] [php] include(ConfiguracionAgenda.php): failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php(296): spl_autoload_call()
+#1 C:\xampp\htdocs\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\framework\web\CBaseController.php(95): AdministradoresController->renderInternal()
+#3 C:\xampp\htdocs\framework\web\CController.php(784): AdministradoresController->renderFile()
+#4 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(168): AdministradoresController->render()
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): AdministradoresController->runAction()
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): AdministradoresController->filterAccessControl()
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): AdministradoresController->runActionWithFilters()
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): AdministradoresController->run()
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/administradores/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php (296)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php (168)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:11:00 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'teatronrsdb.configuracion_agenda' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `configuracion_agenda`.
+in C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php (296)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php (168)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:11:00 [error] [exception.CDbException] exception 'CDbException' with message 'The table "configuracion_agenda" for active record class "ConfiguracionAgenda" cannot be found in the database.' in C:\xampp\htdocs\framework\db\ar\CActiveRecord.php:2385
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(ConfiguracionAgenda))
+#1 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(661): CActiveRecord->getMetaData()
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1355): CActiveRecord->getTableSchema()
+#3 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1461): CActiveRecord->query(Object(CDbCriteria))
+#4 C:\xampp\htdocs\teatroNRS\protected\views\layouts\mainApp.php(296): CActiveRecord->find('id_aplicacion=')
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#7 C:\xampp\htdocs\framework\web\CController.php(784): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#8 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(168): CController->render('admin', Array)
+#9 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionAdmin()
+#10 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#17 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#19 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#20 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#21 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/teatroNRS/administradores/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/usuario/admin
+---
+2018/06/17 07:13:18 [error] [exception.CException] exception 'CException' with message 'Property "Usuario.nit" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('nit')
+#1 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2728): CActiveRecord->__get('nit')
+#2 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2451): CHtml::resolveValue(Object(Usuario), 'nit')
+#3 C:\xampp\htdocs\framework\web\helpers\CHtml.php(1533): CHtml::activeInputField('text', Object(Usuario), 'nit', Array)
+#4 C:\xampp\htdocs\framework\web\widgets\CActiveForm.php(792): CHtml::activeTextField(Object(Usuario), 'nit', Array)
+#5 C:\xampp\htdocs\teatroNRS\protected\views\administradores\_form.php(76): CActiveForm->textField(Object(Usuario), 'nit', Array)
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#9 C:\xampp\htdocs\teatroNRS\protected\views\administradores\create.php(4): CController->renderPartial('_form', Array)
+#10 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#12 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#13 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#14 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(90): CController->render('create', Array)
+#15 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionCreate()
+#16 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('create')
+#25 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#26 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/teatroNRS/administradores/create
+HTTP_REFERER=http://127.0.0.1/teatroNRS/administradores/admin
+---
+2018/06/17 07:13:58 [error] [exception.CException] exception 'CException' with message 'Property "Usuario.telefono" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('telefono')
+#1 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2728): CActiveRecord->__get('telefono')
+#2 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2451): CHtml::resolveValue(Object(Usuario), 'telefono')
+#3 C:\xampp\htdocs\framework\web\helpers\CHtml.php(1533): CHtml::activeInputField('text', Object(Usuario), 'telefono', Array)
+#4 C:\xampp\htdocs\framework\web\widgets\CActiveForm.php(792): CHtml::activeTextField(Object(Usuario), 'telefono', Array)
+#5 C:\xampp\htdocs\teatroNRS\protected\views\administradores\_form.php(76): CActiveForm->textField(Object(Usuario), 'telefono', Array)
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#9 C:\xampp\htdocs\teatroNRS\protected\views\administradores\create.php(4): CController->renderPartial('_form', Array)
+#10 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#12 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#13 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#14 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(90): CController->render('create', Array)
+#15 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionCreate()
+#16 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('create')
+#25 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#26 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/teatroNRS/administradores/create
+HTTP_REFERER=http://127.0.0.1/teatroNRS/administradores/admin
+---
+2018/06/17 07:15:50 [error] [exception.CException] exception 'CException' with message 'Property "Usuario.imagen" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(161): CComponent->__set('imagen', 'imagen')
+#1 C:\xampp\htdocs\teatroNRS\protected\controllers\AdministradoresController.php(74): CActiveRecord->__set('imagen', 'imagen')
+#2 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): AdministradoresController->actionCreate()
+#3 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('create')
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('administradores...')
+#13 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/teatroNRS/administradores/create
+HTTP_REFERER=http://127.0.0.1/teatroNRS/administradores/create
+---
+2018/06/17 07:18:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "clientes/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('clientes/admin')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/clientes/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/administradores/admin
+---
+2018/06/17 07:19:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "clientes/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('clientes/admin')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/clientes/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/administradores/admin
+---
+2018/06/17 07:23:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "funciones/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('funciones/admin')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/funciones/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/clientes/admin
+---
+2018/06/17 07:30:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "funciones/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('funciones/admin')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/funciones/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/clientes/admin
+---
+2018/06/17 07:31:54 [error] [php] include(Funciones.php): failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php(156): spl_autoload_call()
+#1 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): FuncionesController->actionAdmin()
+#2 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): FuncionesController->runAction()
+#4 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): FuncionesController->filterAccessControl()
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(265): FuncionesController->runActionWithFilters()
+#10 C:\xampp\htdocs\framework\web\CWebApplication.php(282): FuncionesController->run()
+#11 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/funciones/admin
+in C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php (156)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:34:07 [error] [exception.CException] exception 'CException' with message 'Property "Funcion.nombres" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('nombres')
+#1 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2728): CActiveRecord->__get('nombres')
+#2 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2451): CHtml::resolveValue(Object(Funcion), 'nombres')
+#3 C:\xampp\htdocs\framework\web\helpers\CHtml.php(1533): CHtml::activeInputField('text', Object(Funcion), 'nombres', Array)
+#4 C:\xampp\htdocs\framework\web\widgets\CActiveForm.php(792): CHtml::activeTextField(Object(Funcion), 'nombres', Array)
+#5 C:\xampp\htdocs\teatroNRS\protected\views\funciones\_form.php(55): CActiveForm->textField(Object(Funcion), 'nombres', Array)
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#9 C:\xampp\htdocs\teatroNRS\protected\views\funciones\create.php(4): CController->renderPartial('_form', Array)
+#10 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#12 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#13 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#14 C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php(84): CController->render('create', Array)
+#15 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): FuncionesController->actionCreate()
+#16 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('create')
+#25 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('funciones/creat...')
+#26 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/teatroNRS/funciones/create
+HTTP_REFERER=http://127.0.0.1/teatroNRS/funciones/admin
+---
+2018/06/17 07:34:43 [error] [exception.CException] exception 'CException' with message 'Property "Funcion.nombres" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('nombres')
+#1 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2728): CActiveRecord->__get('nombres')
+#2 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2451): CHtml::resolveValue(Object(Funcion), 'nombres')
+#3 C:\xampp\htdocs\framework\web\helpers\CHtml.php(1533): CHtml::activeInputField('text', Object(Funcion), 'nombres', Array)
+#4 C:\xampp\htdocs\framework\web\widgets\CActiveForm.php(792): CHtml::activeTextField(Object(Funcion), 'nombres', Array)
+#5 C:\xampp\htdocs\teatroNRS\protected\views\funciones\_form.php(55): CActiveForm->textField(Object(Funcion), 'nombres', Array)
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#8 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#9 C:\xampp\htdocs\teatroNRS\protected\views\funciones\create.php(4): CController->renderPartial('_form', Array)
+#10 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#12 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#13 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#14 C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php(84): CController->render('create', Array)
+#15 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): FuncionesController->actionCreate()
+#16 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#17 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#18 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#20 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#21 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#24 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('create')
+#25 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('funciones/creat...')
+#26 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#28 {main}
+REQUEST_URI=/teatroNRS/funciones/create
+HTTP_REFERER=http://127.0.0.1/teatroNRS/funciones/admin
+---
+2018/06/17 07:37:26 [error] [exception.CException] exception 'CException' with message 'Property "Funcion.date_from" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('date_from')
+#1 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2728): CActiveRecord->__get('date_from')
+#2 C:\xampp\htdocs\framework\web\helpers\CHtml.php(2451): CHtml::resolveValue(Object(Funcion), 'date_from')
+#3 C:\xampp\htdocs\framework\web\helpers\CHtml.php(1533): CHtml::activeInputField('text', Object(Funcion), 'date_from', Array)
+#4 C:\xampp\htdocs\framework\zii\widgets\jui\CJuiDatePicker.php(84): CHtml::activeTextField(Object(Funcion), 'date_from', Array)
+#5 C:\xampp\htdocs\framework\web\CBaseController.php(181): CJuiDatePicker->run()
+#6 C:\xampp\htdocs\teatroNRS\protected\views\funciones\_form.php(63): CBaseController->widget('zii.widgets.jui...', Array)
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#9 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#10 C:\xampp\htdocs\teatroNRS\protected\views\funciones\create.php(4): CController->renderPartial('_form', Array)
+#11 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#12 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#13 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#14 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#15 C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php(84): CController->render('create', Array)
+#16 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): FuncionesController->actionCreate()
+#17 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#18 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#19 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#20 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#21 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#23 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#24 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('create')
+#26 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('funciones/creat...')
+#27 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#28 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/teatroNRS/funciones/create
+HTTP_REFERER=http://127.0.0.1/teatroNRS/funciones/admin
+---
+2018/06/17 07:43:56 [error] [exception.CException] exception 'CException' with message 'Property "Funcion.nombres" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('nombres')
+#1 C:\xampp\htdocs\teatroNRS\protected\views\funciones\admin.php(37): CActiveRecord->__get('nombres')
+#2 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#4 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#5 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#6 C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php(167): CController->render('admin', Array)
+#7 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): FuncionesController->actionAdmin()
+#8 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#17 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('funciones/admin')
+#18 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/teatroNRS/funciones/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/funciones/create
+---
+2018/06/17 07:44:29 [error] [exception.CException] exception 'CException' with message 'Property "Funcion.apellidos" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('apellidos')
+#1 C:\xampp\htdocs\teatroNRS\protected\views\funciones\admin.php(36): CActiveRecord->__get('apellidos')
+#2 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#4 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#5 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#6 C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php(167): CController->render('admin', Array)
+#7 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): FuncionesController->actionAdmin()
+#8 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#17 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('funciones/admin')
+#18 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/teatroNRS/funciones/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/funciones/create
+---
+2018/06/17 07:45:14 [error] [php] Use of undefined constant strtotime - assumed 'strtotime' (C:\xampp\htdocs\teatroNRS\protected\views\funciones\admin.php:36)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(869): FuncionesController->renderFile()
+#1 C:\xampp\htdocs\framework\web\CController.php(782): FuncionesController->renderPartial()
+#2 C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php(167): FuncionesController->render()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): FuncionesController->actionAdmin()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): FuncionesController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): FuncionesController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): FuncionesController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): FuncionesController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/funciones/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\funciones\admin.php (36)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php (167)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:45:28 [error] [php] Use of undefined constant strtotime - assumed 'strtotime' (C:\xampp\htdocs\teatroNRS\protected\views\funciones\admin.php:36)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(869): FuncionesController->renderFile()
+#1 C:\xampp\htdocs\framework\web\CController.php(782): FuncionesController->renderPartial()
+#2 C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php(167): FuncionesController->render()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): FuncionesController->actionAdmin()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): FuncionesController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): FuncionesController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): FuncionesController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): FuncionesController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/funciones/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\funciones\admin.php (36)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php (167)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:45:54 [error] [php] Object of class Funcion could not be converted to int (C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php:75)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): FuncionesController->runAction()
+#1 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): FuncionesController->filterAccessControl()
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(265): FuncionesController->runActionWithFilters()
+#7 C:\xampp\htdocs\framework\web\CWebApplication.php(282): FuncionesController->run()
+#8 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/funciones/create
+in C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php (75)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:46:25 [error] [php] Object of class Funcion could not be converted to int (C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php:75)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): FuncionesController->runAction()
+#1 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): FuncionesController->filterAccessControl()
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(265): FuncionesController->runActionWithFilters()
+#7 C:\xampp\htdocs\framework\web\CWebApplication.php(282): FuncionesController->run()
+#8 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/funciones/create
+in C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php (75)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:46:27 [error] [php] Object of class Funcion could not be converted to int (C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php:75)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): FuncionesController->runAction()
+#1 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): FuncionesController->filterAccessControl()
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(265): FuncionesController->runActionWithFilters()
+#7 C:\xampp\htdocs\framework\web\CWebApplication.php(282): FuncionesController->run()
+#8 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/funciones/create
+in C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php (75)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:48:16 [error] [exception.CException] exception 'CException' with message 'FuncionesController cannot find the requested view "index".' in C:\xampp\htdocs\framework\web\CController.php:878
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#1 C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php(155): CController->render('index', Array)
+#2 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): FuncionesController->actionIndex()
+#3 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('')
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('funciones')
+#13 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/teatroNRS/funciones
+---
+2018/06/17 07:51:59 [error] [php] include(Butaca.php): failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php(80): spl_autoload_call()
+#1 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): FuncionesController->actionCreate()
+#2 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): FuncionesController->runAction()
+#4 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): FuncionesController->filterAccessControl()
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(265): FuncionesController->runActionWithFilters()
+#10 C:\xampp\htdocs\framework\web\CWebApplication.php(282): FuncionesController->run()
+#11 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/funciones/create
+in C:\xampp\htdocs\teatroNRS\protected\controllers\FuncionesController.php (80)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 07:54:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "reservas/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reservas/admin')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/reservas/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/funciones/admin
+---
+2018/06/17 07:56:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "reserva/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reserva/admin')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/reserva/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 07:56:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "reserva/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reserva/admin')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/reserva/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 07:57:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "reserva/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reserva/admin')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/reserva/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 08:03:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "reserva/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reserva/admin')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/reserva/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 08:06:17 [error] [php] Undefined variable: model (C:\xampp\htdocs\teatroNRS\protected\views\reserva\admin.php:30)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(869): ReservaController->renderFile()
+#1 C:\xampp\htdocs\framework\web\CController.php(782): ReservaController->renderPartial()
+#2 C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php(156): ReservaController->render()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): ReservaController->actionAdmin()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): ReservaController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): ReservaController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): ReservaController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): ReservaController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/reserva/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\reserva\admin.php (30)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php (156)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 08:08:20 [error] [php] include(Funciones.php): failed to open stream: No such file or directory (C:\xampp\htdocs\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php(156): spl_autoload_call()
+#1 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): ReservaController->actionAdmin()
+#2 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): ReservaController->runAction()
+#4 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): ReservaController->filterAccessControl()
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(265): ReservaController->runActionWithFilters()
+#10 C:\xampp\htdocs\framework\web\CWebApplication.php(282): ReservaController->run()
+#11 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/reserva/admin
+in C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php (156)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 08:08:27 [error] [exception.CException] exception 'CException' with message 'Property "CDbCriteria.condiction" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\schema\CDbCriteria.php(160): CComponent->__set('condiction', 'status=1 and fe...')
+#1 C:\xampp\htdocs\framework\db\schema\CDbCommandBuilder.php(588): CDbCriteria->__construct(Array)
+#2 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(1474): CDbCommandBuilder->createCriteria(Array, Array)
+#3 C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php(156): CActiveRecord->findAll(Array)
+#4 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): ReservaController->actionAdmin()
+#5 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#6 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#8 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#12 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reserva/admin')
+#15 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#16 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/teatroNRS/reserva/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/site/index
+---
+2018/06/17 08:19:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "butacas".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('butacas')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('butacas')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reserva/butacas')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/teatroNRS/reserva/butacas?submit=Buscar
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/admin
+---
+2018/06/17 08:19:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "butacas".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('butacas')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('butacas')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reserva/butacas')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/teatroNRS/reserva/butacas?fecha_funcion=2018-06-19&submit=Buscar
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/admin
+---
+2018/06/17 08:23:01 [error] [exception.CException] exception 'CException' with message 'ReservaController cannot find the requested view "butacas".' in C:\xampp\htdocs\framework\web\CController.php:878
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('butacas', Array, true)
+#1 C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php(55): CController->render('butacas', Array)
+#2 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): ReservaController->actionButacas()
+#3 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('butacas')
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reserva/butacas')
+#13 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/teatroNRS/reserva/butacas?fecha_funcion=2018-06-19&submit=Buscar
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/admin
+---
+2018/06/17 08:23:45 [error] [php] Trying to get property of non-object (C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php:52)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): ReservaController->runAction()
+#1 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): ReservaController->filterAccessControl()
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(265): ReservaController->runActionWithFilters()
+#7 C:\xampp\htdocs\framework\web\CWebApplication.php(282): ReservaController->run()
+#8 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/reserva/butacas?fecha_funcion=2018-06-19&submit=Buscar
+in C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php (52)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 08:26:22 [error] [php] Undefined variable: modelFunciones (C:\xampp\htdocs\teatroNRS\protected\views\reserva\butacas.php:22)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(869): ReservaController->renderFile()
+#1 C:\xampp\htdocs\framework\web\CController.php(782): ReservaController->renderPartial()
+#2 C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php(54): ReservaController->render()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): ReservaController->actionButacas()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): ReservaController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): ReservaController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): ReservaController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): ReservaController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+in C:\xampp\htdocs\teatroNRS\protected\views\reserva\butacas.php (22)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php (54)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 08:46:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "<".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('<')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('<')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reserva/<')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/teatroNRS/reserva/%3C?php%20echo%20Yii::app()-%3Erequest-%3EbaseUrl;%20?%3E/images/aciento.png
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+---
+2018/06/17 08:47:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "<".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('<')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('<')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reserva/<')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/teatroNRS/reserva/%3C?php%20echo%20Yii::app()-%3Erequest-%3EbaseUrl;%20?%3E/images/salida.png
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+---
+2018/06/17 09:11:11 [error] [php] Undefined variable: modelFun (C:\xampp\htdocs\teatroNRS\protected\models\Funcion.php:92)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CBaseController.php(95): ReservaController->renderInternal()
+#1 C:\xampp\htdocs\framework\web\CController.php(869): ReservaController->renderFile()
+#2 C:\xampp\htdocs\framework\web\CController.php(782): ReservaController->renderPartial()
+#3 C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php(54): ReservaController->render()
+#4 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): ReservaController->actionButacas()
+#5 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#6 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): ReservaController->runAction()
+#7 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#8 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#9 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): ReservaController->filterAccessControl()
+#10 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#11 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#12 C:\xampp\htdocs\framework\web\CController.php(265): ReservaController->runActionWithFilters()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(282): ReservaController->run()
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#15 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#16 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+in C:\xampp\htdocs\teatroNRS\protected\models\Funcion.php (92)
+in C:\xampp\htdocs\teatroNRS\protected\views\reserva\butacas.php (23)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php (54)
+2018/06/17 09:47:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "funcion/guardaReserva".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('funcion/guardaR...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/funcion/guardaReserva
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+---
+2018/06/17 09:47:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "funcion/guardaReserva".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('funcion/guardaR...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/funcion/guardaReserva
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+---
+2018/06/17 09:48:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "funcion/guardaReserva".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('funcion/guardaR...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/funcion/guardaReserva
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+---
+2018/06/17 09:54:09 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "getState".' in C:\xampp\htdocs\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php(54): CComponent->__call('getState', Array)
+#1 C:\xampp\htdocs\teatroNRS\protected\controllers\ReservaController.php(54): CWebApplication->getState('id')
+#2 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): ReservaController->actionGuardaReserva()
+#3 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('guardaReserva')
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('reserva/guardaR...')
+#13 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/teatroNRS/reserva/guardaReserva
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+---
+2018/06/17 10:03:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "misreservas/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('misreservas/adm...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/misreservas/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+---
+2018/06/17 10:04:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "misreservas/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('misreservas/adm...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/misreservas/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+---
+2018/06/17 10:04:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "misreservas/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('misreservas/adm...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/misreservas/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+---
+2018/06/17 10:08:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "misreservas/admin".' in C:\xampp\htdocs\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('misreservas/adm...')
+#1 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/teatroNRS/misreservas/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+---
+2018/06/17 10:14:30 [error] [php] Undefined variable: model (C:\xampp\htdocs\teatroNRS\protected\views\misreservas\admin.php:34)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(869): MisreservasController->renderFile()
+#1 C:\xampp\htdocs\framework\web\CController.php(782): MisreservasController->renderPartial()
+#2 C:\xampp\htdocs\teatroNRS\protected\controllers\MisreservasController.php(53): MisreservasController->render()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): MisreservasController->actionAdmin()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): MisreservasController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): MisreservasController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): MisreservasController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): MisreservasController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/misreservas/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\misreservas\admin.php (34)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\MisreservasController.php (53)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 10:15:50 [error] [php] Undefined variable: model (C:\xampp\htdocs\teatroNRS\protected\views\misreservas\admin.php:29)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(869): MisreservasController->renderFile()
+#1 C:\xampp\htdocs\framework\web\CController.php(782): MisreservasController->renderPartial()
+#2 C:\xampp\htdocs\teatroNRS\protected\controllers\MisreservasController.php(53): MisreservasController->render()
+#3 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): MisreservasController->actionAdmin()
+#4 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): MisreservasController->runAction()
+#6 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): MisreservasController->filterAccessControl()
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(265): MisreservasController->runActionWithFilters()
+#12 C:\xampp\htdocs\framework\web\CWebApplication.php(282): MisreservasController->run()
+#13 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/misreservas/admin
+in C:\xampp\htdocs\teatroNRS\protected\views\misreservas\admin.php (29)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\MisreservasController.php (53)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
+2018/06/17 10:15:59 [error] [exception.CException] exception 'CException' with message 'Property "Reserva.nombres" is not defined.' in C:\xampp\htdocs\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\framework\db\ar\CActiveRecord.php(145): CComponent->__get('nombres')
+#1 C:\xampp\htdocs\teatroNRS\protected\views\misreservas\admin.php(32): CActiveRecord->__get('nombres')
+#2 C:\xampp\htdocs\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#4 C:\xampp\htdocs\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#5 C:\xampp\htdocs\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#6 C:\xampp\htdocs\teatroNRS\protected\controllers\MisreservasController.php(53): CController->render('admin', Array)
+#7 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): MisreservasController->actionAdmin()
+#8 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 C:\xampp\htdocs\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#15 C:\xampp\htdocs\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('admin')
+#17 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('misreservas/adm...')
+#18 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/teatroNRS/misreservas/admin
+HTTP_REFERER=http://127.0.0.1/teatroNRS/reserva/butacas?fecha_funcion=5&submit=Buscar
+---
+2018/06/17 10:21:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "detalle".' in C:\xampp\htdocs\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(270): CController->missingAction('detalle')
+#1 C:\xampp\htdocs\framework\web\CWebApplication.php(282): CController->run('detalle')
+#2 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController('misreservas/det...')
+#3 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\teatroNRS\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/teatroNRS/misreservas/detalle/12
+HTTP_REFERER=http://127.0.0.1/teatroNRS/misreservas/admin
+---
+2018/06/17 10:23:03 [error] [php] Trying to get property of non-object (C:\xampp\htdocs\teatroNRS\protected\views\misreservas\detalle.php:34)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\CController.php(869): MisreservasController->renderFile()
+#1 C:\xampp\htdocs\framework\web\CController.php(782): MisreservasController->renderPartial()
+#2 C:\xampp\htdocs\teatroNRS\protected\controllers\MisreservasController.php(61): MisreservasController->render()
+#3 unknown(0): MisreservasController->actionDetalle()
+#4 C:\xampp\htdocs\framework\web\actions\CAction.php(109): ReflectionMethod->invokeArgs()
+#5 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): MisreservasController->runAction()
+#8 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): MisreservasController->filterAccessControl()
+#11 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\framework\web\CController.php(265): MisreservasController->runActionWithFilters()
+#14 C:\xampp\htdocs\framework\web\CWebApplication.php(282): MisreservasController->run()
+#15 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\teatroNRS\index.php(13): CWebApplication->run()
+REQUEST_URI=/teatroNRS/misreservas/detalle/12
+in C:\xampp\htdocs\teatroNRS\protected\views\misreservas\detalle.php (34)
+in C:\xampp\htdocs\teatroNRS\protected\controllers\MisreservasController.php (61)
+in C:\xampp\htdocs\teatroNRS\index.php (13)
